@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mi aplicacion</string>
+    <string name="iniciosesion">Inicio de sesion</string>
+    <string name="username">Correo  electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="btnIniciarSesion">Iniciar sesion</string>
+    <string name="username_register">Usuario</string>
+    <string name="register_link">No tienes una cuenta? Registrate</string>
+</resources>
